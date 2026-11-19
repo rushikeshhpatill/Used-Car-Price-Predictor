@@ -43,7 +43,7 @@ Ensure you have the following installed on your machine:
 
 * Python 3.9+
 * Node.js v18+
-* Git
+* Git hub
 
 ### Installation
 
